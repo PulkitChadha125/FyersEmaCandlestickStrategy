@@ -1,0 +1,9 @@
+pandas
+polars
+polars-talib
+fyers-apiv3
+pyotp
+requests
+pytz 
+pyarrow
+setuptools
